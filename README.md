@@ -48,6 +48,11 @@ Model Context Protocol agent that manages MCP server connections, discovers and 
 
 ## Architecture
 
+![7-Layer Architecture](docs/diagrams/architecture-7-layer.png)
+
+*Where RAG sits in the stack — the 7-layer enterprise AI agent architecture.*
+
+
 ```
 mcp-agent/
 │
